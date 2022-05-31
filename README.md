@@ -1,6 +1,9 @@
 # Markdown
 ## Headline 2
 
+- [Table](tables)
+
+
 **Bold**
 
 _Italic_
