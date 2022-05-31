@@ -35,3 +35,10 @@ For images:
 How[^1] to make a comment:
 
 [^1]: (refare)
+
+Tables:
+
+| First column | 2nd | 3rd |
+|---           |---  |---  |
+|Sudo          |Linux|Windows|
+|   NPM           |  Nodejs   |Code |
