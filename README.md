@@ -1,7 +1,7 @@
 # Markdown
 ## Headline 2
 
-- [Table](tables)
+- [Table](Tables:)
 
 
 **Bold**
