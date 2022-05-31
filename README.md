@@ -42,3 +42,10 @@ Tables:
 |---           |---  |---  |
 |Sudo          |Linux|Windows|
 |   NPM           |  Nodejs   |Code |
+
+
+This project support:
+
+- [x] Windows
+- [x] Linux
+- [ ] IOS
