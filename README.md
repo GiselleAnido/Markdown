@@ -1,7 +1,9 @@
 # Markdown
 ## Headline 2
 
-- [Table](Tables:)
+- [Markdown](#markdown)
+  - [Headline 2](#headline-2)
+  - [Table](#table)
 
 
 **Bold**
@@ -39,7 +41,7 @@ How[^1] to make a comment:
 
 [^1]: (refare)
 
-Tables:
+## Table
 
 | First column | 2nd | 3rd |
 |---           |---  |---  |
